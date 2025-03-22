@@ -1,20 +1,18 @@
-# 🍽️ Odin Recipes
+# GitHub QR Code Component
 
-**This is a project for The Odin Project that showcases a simple recipe website using HTML.**  
-It includes recipes for **Lasagna, Momo, and Pizza**—each with detailed descriptions, ingredients, and preparation steps.
+A simple, responsive QR code card that links to GitHub profiles.
 
----
+## Features
+- Responsive design
+- Clean UI with hover effects
+- Built with HTML5 and CSS3
 
-## 📄 Project Overview
+## Usage
+Open `card.html` in your browser to view the QR code.
 
-This project helps beginners practice:
-- Basic **HTML structuring**
-- **Internal and external page linking**
-- Building a **multi-page static website**
+## Customize
+Replace the QR image and update text in `card.html` to match your needs.
 
-Each recipe page is individually linked and displays:
-- A recipe **title**
-- A food **image**
-- A brief **description**
-- A list of **ingredients**
-- Step-by-step **cooking instructions**
+## Preview 
+
+![image](https://github.com/user-attachments/assets/a77bd05d-a1ac-4ec7-bf4b-31086cc5a60f)
