@@ -1,14 +1,20 @@
-# QR Code Scanner - Responsive UI
+# 🍽️ Odin Recipes
 
-A simple **QR code scanner UI** built with **HTML & CSS**, designed for **mobile (375px) and desktop (1440px)**.
+**This is a project for The Odin Project that showcases a simple recipe website using HTML.**  
+It includes recipes for **Lasagna, Momo, and Pizza**—each with detailed descriptions, ingredients, and preparation steps.
 
-##  Features
-- **Responsive Design** using CSS Media Queries
-- **Mobile-First Approach** for smooth scaling
-- **Google Fonts Integration** (`Outfit` - 400 & 700)
-- **Minimal & Clean UI**
+---
 
-##  Installation
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Shantam10p/qr-component.git
+## 📄 Project Overview
+
+This project helps beginners practice:
+- Basic **HTML structuring**
+- **Internal and external page linking**
+- Building a **multi-page static website**
+
+Each recipe page is individually linked and displays:
+- A recipe **title**
+- A food **image**
+- A brief **description**
+- A list of **ingredients**
+- Step-by-step **cooking instructions**
